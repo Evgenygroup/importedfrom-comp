@@ -10,7 +10,7 @@ public class Carsinfo {
                 2015);
         Cars car2 = new Cars("Toyota",
                 "Auris",
-                "White",
+                "Green",
                 1990);
         Cars car3 = new Cars("Volvo",
                 "S60",
